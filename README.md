@@ -1,5 +1,5 @@
 # rwd_page
-<a href="https://maciekbe1.github.io/rwd_page/." target="_blank">ONLINE<a>
+<a href="https://maciekbe1.github.io/EXERCISE-RWD-PAGE" target="_blank">ONLINE<a>
 
 This is a simple example of responsive web design.
 
